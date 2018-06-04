@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/Unity-Logs-Viewer/Reporter/Test/ReporterScene.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Tes.unity
+  isLoaded: 1
+  isActive: 1

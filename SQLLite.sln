@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLLite", "SQLLite.csproj", "{A4E07D03-5DE5-0275-FDBD-6257640E08D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLLite.Editor", "SQLLite.Editor.csproj", "{DEB28D2E-CC6B-F256-F75D-D3AE72893085}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4E07D03-5DE5-0275-FDBD-6257640E08D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4E07D03-5DE5-0275-FDBD-6257640E08D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4E07D03-5DE5-0275-FDBD-6257640E08D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4E07D03-5DE5-0275-FDBD-6257640E08D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEB28D2E-CC6B-F256-F75D-D3AE72893085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEB28D2E-CC6B-F256-F75D-D3AE72893085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEB28D2E-CC6B-F256-F75D-D3AE72893085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEB28D2E-CC6B-F256-F75D-D3AE72893085}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
